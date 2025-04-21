@@ -1,4 +1,4 @@
-[![MasterHead](github-header-image.png)]
+![MasterHead](github-header-image.png)
 
 # 💫 About Me:
 I'm studying for university entrance exams. My goal is to get into a good university, so I'm really focused and trying to do my best.
